@@ -1,0 +1,7 @@
+C:\Users\acs3880\source\repos\Maxkivalasztas\Maxkivalasztas\bin\Debug\Maxkivalasztas.exe.config
+C:\Users\acs3880\source\repos\Maxkivalasztas\Maxkivalasztas\bin\Debug\Maxkivalasztas.exe
+C:\Users\acs3880\source\repos\Maxkivalasztas\Maxkivalasztas\bin\Debug\Maxkivalasztas.pdb
+C:\Users\acs3880\source\repos\Maxkivalasztas\Maxkivalasztas\obj\Debug\Maxkivalasztas.csprojAssemblyReference.cache
+C:\Users\acs3880\source\repos\Maxkivalasztas\Maxkivalasztas\obj\Debug\Maxkivalasztas.csproj.CoreCompileInputs.cache
+C:\Users\acs3880\source\repos\Maxkivalasztas\Maxkivalasztas\obj\Debug\Maxkivalasztas.exe
+C:\Users\acs3880\source\repos\Maxkivalasztas\Maxkivalasztas\obj\Debug\Maxkivalasztas.pdb
